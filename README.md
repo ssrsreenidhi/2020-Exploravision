@@ -1,2 +1,3 @@
 # 2019-Exploravision
-Exploravision - Early Identification of Visual Impairment and Macular Degeneration Using Convolutional Neural Networks and Deep Learning Framework
+This Exploravision project concerns developing a macular protein degeneration diagnostic based on eye degeneration pattern analysis.
+
